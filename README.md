@@ -1,4 +1,4 @@
-# IceSmashers
+# Ice Smashers
 
 A family- and work-friendly party game to break the ice. One player hosts the game and others can join through a room code. Voice chat between participants is recommended. 2-8 Players.
 
